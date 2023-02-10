@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 I'm alice
+I'm Bob.
+Who are you?
+>>>>>>> 64d6761b43c99980b5942a2ff38849c743fc5dd9
